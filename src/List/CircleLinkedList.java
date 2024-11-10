@@ -1,4 +1,4 @@
-package LinkedList;
+package List;
 public class CircleLinkedList {
     private static class Node {
         int data;
